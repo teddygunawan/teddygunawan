@@ -1,7 +1,9 @@
 ### Hi there 👋, The name's [Teddy Gunawan!](https://tedg.space/)
 I'm an engineer with passion in various fields of engineering, currently specialized in fullstack development and hopefully, able to master data science as well!
 
-Did you know? you are currently <img src="https://visitor-badge.laobi.icu/badge?page_id=teddygunawan&left_text=Visitor Number:" alt="" />
+
+Did you know? you are.....\
+<img align="top" src="https://visitor-badge.laobi.icu/badge?page_id=teddygunawan&left_text=Visitor%20Number:" />
 
 #### Tech stack 🖥
 [![ReactJS](https://img.shields.io/badge/React-%2361DAFB?style=flat&logoColor=%23444&logo=react)](https://reactjs.org/)
