@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, The name's Teddy Gunawan!
+I'm an engineer with passion in various fields of engineering, currently specialized in fullstack development and hopefully, able to master data science as well!
+
+Did you know? you are currently https://visitor-badge.laobi.icu/badge?page_id=teddygunawan&left_text=Visitor Number:
+
+Tech stack:
+
 
 <!--
 **teddygunawan/teddygunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
