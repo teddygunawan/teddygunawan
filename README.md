@@ -28,7 +28,6 @@ Did you know? you are.....\
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)](https://jestjs.io/)
 [![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=flat&logo=testing-library&logoColor=red)](https://testing-library.com/)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
 
 
