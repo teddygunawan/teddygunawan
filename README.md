@@ -1,4 +1,4 @@
-### Hi there 👋, The name's [Teddy Gunawan!](https://tedg.space/)
+### Hi there 👋, The name's [Teddy Gunawan!](https://tedg.space/){:target="_blank"}
 I'm an engineer with passion in various fields of engineering, currently specialized in fullstack development and hopefully, able to master data science as well!
 
 
