@@ -1,4 +1,4 @@
-### Hi there 👋, The name's [Teddy Gunawan!](https://tedg.space/){:target="_blank"}
+### Hi there 👋, The name's <a href="https://tedg.space/" target="_blank" rel="noopener">Teddy Gunawan</a>
 I'm an engineer with passion in various fields of engineering, currently specialized in fullstack development and hopefully, able to master data science as well!
 
 
